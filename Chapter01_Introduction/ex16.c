@@ -31,7 +31,7 @@ int main()
         else
         {
 
-            printf("The longest line is over the character limit of %d.\nIt is %d characters long",MAXLINE-1,max);
+            printf("The longest line is over the character limit of %d.\nIt is %d characters long",MAXLINE-1 ,max);
         }
     }
     return 0;

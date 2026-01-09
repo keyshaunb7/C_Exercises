@@ -48,3 +48,7 @@ void reverse(char old[],char new[],int length)
     new[j++] = '\n';
     new[j] = '\0';
 }
+
+
+
+    |   |   |   |123    |   |   |

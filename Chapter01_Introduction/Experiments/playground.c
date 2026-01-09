@@ -16,8 +16,8 @@
  copy(longest, line);
  }
  if (max > 0) /* there was a line */
- printf("%s", longest);
- printf("The longest line is %d characters long",max);
+ printf("The longest line is:\n%s\nwhich is %dcharacters long", longest,max);
+;
  return 0;
  }
  /* getline: read a line into s, return length */

@@ -22,7 +22,7 @@ int main ()
 
     }
 
-    /*printf("a:%d b:%d c:%d d:%d",char_count[0],char_count[1],char_count[2],char_count[3]);*/
+    
     for(i=0;i<4;++i)
     {
         printf("%c:",char_arr[i]);
@@ -32,6 +32,9 @@ int main ()
         }
         printf("\n");
     }
+    
+    
+    /*printf("a:%d b:%d c:%d d:%d",char_count[0],char_count[1],char_count[2],char_count[3]);*/
    return 0;
     
 }
