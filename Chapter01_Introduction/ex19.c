@@ -50,5 +50,3 @@ void reverse(char old[],char new[],int length)
 }
 
 
-
-    |   |   |   |123    |   |   |
